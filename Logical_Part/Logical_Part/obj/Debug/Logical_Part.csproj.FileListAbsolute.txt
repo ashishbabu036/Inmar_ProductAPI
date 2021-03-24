@@ -1,0 +1,7 @@
+D:\Inmar\Logical_Part\Logical_Part\bin\Debug\Logical_Part.exe.config
+D:\Inmar\Logical_Part\Logical_Part\bin\Debug\Logical_Part.exe
+D:\Inmar\Logical_Part\Logical_Part\bin\Debug\Logical_Part.pdb
+D:\Inmar\Logical_Part\Logical_Part\obj\Debug\Logical_Part.csprojAssemblyReference.cache
+D:\Inmar\Logical_Part\Logical_Part\obj\Debug\Logical_Part.csproj.CoreCompileInputs.cache
+D:\Inmar\Logical_Part\Logical_Part\obj\Debug\Logical_Part.exe
+D:\Inmar\Logical_Part\Logical_Part\obj\Debug\Logical_Part.pdb
